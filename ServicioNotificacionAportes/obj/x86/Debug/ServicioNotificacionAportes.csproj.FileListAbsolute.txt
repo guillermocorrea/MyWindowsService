@@ -1,0 +1,9 @@
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\bin\Debug\ServicioNotificacionAportes.exe
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\bin\Debug\ServicioNotificacionAportes.pdb
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\obj\x86\Debug\ServicioNotificacionAportes.ProjectInstaller.resources
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\obj\x86\Debug\ServicioNotificacionAportes.exe
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\obj\x86\Debug\ServicioNotificacionAportes.pdb
+c:\users\guillermo\documents\visual studio 2010\Projects\ServicioNotificacionAportes\ServicioNotificacionAportes\bin\Debug\ServicioNotificacionAportes.exe.config
